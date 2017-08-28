@@ -1,0 +1,40 @@
+# Header
+menu:
+  Inicio: /
+  Archivos: /archives
+  Twitter:
+    url: https://twitter.com/DavidCehegin
+    icon: twitter
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: 
+
+# URL of the Home page image
+index_cover: http://eatandcode.es/images/blog-header.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname: eatandcode
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics: UA-73435519-2
+
+# Addthis ID
+addthis: ra-574964d40b587768
+
+# Social Accounts
+twitter_url: https://twitter.com/DavidCehegin
+twitter_handle:
+facebook_url:
+github_url:
+linkedin_url: https://www.linkedin.com/in/davloperez
+mailto:

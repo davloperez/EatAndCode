@@ -1,0 +1,115 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: Eat&Code
+subtitle: Para el programador web inquieto
+description: Blog personal de David López, programador web en Xepient Solutions. Aquí podrás encontrar artículos relacionados con la programación web, herramientas y otras reflexiones.
+author: David López Pérez
+language: es
+timezone: Europe/Madrid
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: http://eatandcode.es
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: true
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace:
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: DD-MM-YYYY
+time_format: HH:mm:ss
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 10
+pagination_dir: page
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: clean-blog
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type:
+  
+# Plugins customize
+## Admin
+admin:
+  username: davloperez
+  password_hash: $2a$08$S6ILJCKAPkxMNjDMGThQCuYMCTrP258XjTekZ8Cf7rRzZpmn2r/uO
+  secret: 1234567890limonplatanobanana
+## add caption for iamges
+image_caption:
+  enable: true
+  class_name: #if you wanna customize the style for the caption,you can assign a class name, default is 'image-caption'
+
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+
+# The following settings is the quick start options.
+generator_amp:
+  validateAMP: true   # To AMP HTML validate automatically, please set true.
+  templateDir:  amp-template
+  assetDistDir: amp-dist
+  logo:
+    path:   eatandcode.jpg
+    width:  600
+    height: 60
+  substituteTitleImage: 
+    path:   blog-header.jpg
+    width:  1900
+    height: 872
+  warningLog: true   # To display warning, please set true.
+  google_analytics: UA-73435519-2
+  theme:
+    menu:
+      Inicio: /
+      Archivos: /archives
+# 8. Footer Option (authorDetail)
+authorDetail:
+  authorReading: David López Pérez
+  avatar:
+    path:   avatar.jpg
+    width:  150
+    height: 150
+  description: Web Application Developer @ Xepient Solutions

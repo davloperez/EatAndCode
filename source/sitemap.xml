@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://eatandcode.es/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/archives/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2017/08/12/Soluciones-a-la-captura-de-svg-con-html2canvas/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/08/20/configurar-jenkins-para-usar-sinopia/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/08/13/dependencias-con-npm-trucos-y-trampas/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/06/07/Como-montar-tu-repositorio-npm-privado-con-sinopia/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/06/04/Typescript-2-control-del-flujo-basado-en-analisis-de-datos/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/06/02/Lecciones_aprendidas_de_2_proyectos_con_el_mismo_codigo_fuente/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/05/31/Dime-que-blogs-frecuentas-y-te-dire-que-clase-de-programador-eres/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/05/28/Proxy-inverso-o-como-servir-2-paginas-web-desde-el-mismo-servidor-en-el-puerto-80/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/2016/05/25/hello-world/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/javascript/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/html2canvas/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/svg/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/jsplumb/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/angularjs/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/material/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/design/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/icon/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/Javascript/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/Javascript/Material-Design-Icons/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/Javascript/Material-Design-Icons/JsPlumb/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Sinopia/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/npm/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/repositorio/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Jenkins/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/test/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/Node-js/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/Node-js/Integracion-continua/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/trucos/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/trampas/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/node-js/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Typescript-2/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Javascript/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/Typescript/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/MEAN-Stack/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/OAuth-2-0/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Framework/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/web/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/web/arquitectura/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Blog/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Programacion/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/enlaces/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/proxy-inverso/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/servidor/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/tags/Squid/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/sistemas/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://eatandcode.es/categories/sistemas/proxy/</loc>
+  <lastmod>2017-08-12T22:04:40+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
